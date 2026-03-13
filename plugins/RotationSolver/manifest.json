@@ -1,0 +1,26 @@
+{
+  "Author": "kk-triplesix",
+  "Name": "Rotation Solver Reborn (Private)",
+  "InternalName": "RotationSolver",
+  "AssemblyVersion": "0.0.0.0",
+  "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
+  "Description": "Analyses combat information every frame and finds the best action.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "Tags": [
+    "combat",
+    "rotation",
+    "auto",
+    "solver",
+    "pve",
+    "pvp"
+  ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+  "Punchline": "Analyses combat information every frame and finds the best action.",
+  "DownloadLinkInstall": "https://github.com/kk-triplesix/RotationSolverRebornPrivate/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/kk-triplesix/RotationSolverRebornPrivate/releases/latest/download/latest.zip",
+  "DownloadLinkTesting": "https://github.com/kk-triplesix/RotationSolverRebornPrivate/releases/latest/download/latest.zip"
+}
