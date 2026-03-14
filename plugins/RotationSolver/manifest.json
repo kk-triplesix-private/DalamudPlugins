@@ -2,7 +2,7 @@
   "Author": "kk-triplesix",
   "Name": "RSR (KK's Special)",
   "InternalName": "RotationSolver",
-  "AssemblyVersion": "7.4.5.20",
+  "AssemblyVersion": "7.4.5.21",
   "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
   "Description": "Analyses combat information every frame and finds the best action.",
   "ApplicableVersion": "any",
