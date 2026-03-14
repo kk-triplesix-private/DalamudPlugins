@@ -2,7 +2,7 @@
   "Author": "kk-triplesix",
   "Name": "BMR (KK's Special)",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.4.5.7",
+  "AssemblyVersion": "7.4.5.9",
   "RepoUrl": "https://github.com/kk-triplesix/BossModRebornPrivate",
   "Description": "A bunch of utilities to simplify bosses.",
   "ApplicableVersion": "any",
