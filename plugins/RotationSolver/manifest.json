@@ -3,7 +3,7 @@
   "Name": "RSR (KK's Special)",
   "InternalName": "RotationSolver",
   "AssemblyVersion": "7.4.5.60",
-  "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
+  "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
   "Description": "Analyses combat information every frame and finds the best action.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 14,
@@ -20,7 +20,7 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
   "Punchline": "Analyses combat information every frame and finds the best action.",
-  "DownloadLinkInstall": "https://github.com/kk-triplesix/RotationSolverRebornPrivate/releases/latest/download/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/kk-triplesix/RotationSolverRebornPrivate/releases/latest/download/latest.zip",
-  "DownloadLinkTesting": "https://github.com/kk-triplesix/RotationSolverRebornPrivate/releases/latest/download/latest.zip"
+  "DownloadLinkInstall": "https://github.com/kk-triplesix-private/RSR-kk-special/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/kk-triplesix-private/RSR-kk-special/releases/latest/download/latest.zip",
+  "DownloadLinkTesting": "https://github.com/kk-triplesix-private/RSR-kk-special/releases/latest/download/latest.zip"
 }
