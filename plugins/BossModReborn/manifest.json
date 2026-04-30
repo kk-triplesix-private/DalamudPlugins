@@ -6,7 +6,7 @@
   "RepoUrl": "https://github.com/kk-triplesix-private/BMR-kk-special",
   "Description": "A bunch of utilities to simplify bosses.",
   "ApplicableVersion": "any",
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "Tags": [
     "combat",
     "boss",
