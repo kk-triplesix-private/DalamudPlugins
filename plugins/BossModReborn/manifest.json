@@ -2,23 +2,37 @@
   "Author": "kk-triplesix",
   "Name": "BMR (KK's Special)",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "7.4.5.38",
+  "AssemblyVersion": "7.5.0.32",
   "RepoUrl": "https://github.com/kk-triplesix-private/BMR-kk-special",
-  "Description": "A bunch of utilities to simplify bosses.",
+  "Description": "Private fork of BossModReborn with extended IPC, custom modules, and RSR integration.",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "Tags": [
     "combat",
     "boss",
-    "raid",
-    "mechanics"
+    "dodge",
+    "mechanics",
+    "pve",
+    "raids",
+    "trials"
   ],
   "CategoryTags": [
     "other"
   ],
   "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
-  "Punchline": "Don't fail at raid mechanics anymore",
+  "Punchline": "KK's custom boss mod with extended IPC and RSR integration.",
   "DownloadLinkInstall": "https://github.com/kk-triplesix-private/BMR-kk-special/releases/latest/download/latest.zip",
   "DownloadLinkUpdate": "https://github.com/kk-triplesix-private/BMR-kk-special/releases/latest/download/latest.zip",
-  "DownloadLinkTesting": "https://github.com/kk-triplesix-private/BMR-kk-special/releases/latest/download/latest.zip"
+  "DownloadLinkTesting": "https://github.com/kk-triplesix-private/BMR-kk-special/releases/latest/download/latest.zip",
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/kk-triplesix-private/BMR-kk-special/main/Data/image1.png",
+    "https://raw.githubusercontent.com/kk-triplesix-private/BMR-kk-special/main/Data/image2.png",
+    "https://raw.githubusercontent.com/kk-triplesix-private/BMR-kk-special/main/Data/image3.png"
+  ],
+  "AcceptsFeedback": true,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IsTestingExclusive": false
 }
