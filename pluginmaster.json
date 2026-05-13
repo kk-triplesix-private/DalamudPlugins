@@ -41,7 +41,7 @@
     "Author": "kk-triplesix",
     "Name": "RSR (KK's Special)",
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "7.5.0.29",
+    "AssemblyVersion": "7.5.0.30",
     "RepoUrl": "https://github.com/kk-triplesix-private/RSR-kk-special",
     "Description": "Private fork of RotationSolverReborn with custom rotations, BossMod IPC integration, rotation planner, and UI modernization.",
     "ApplicableVersion": "any",
